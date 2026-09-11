@@ -235,3 +235,6 @@ This repository serves as the official landing page for iRoot. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of iRoot today!**
+
+---
+**Last updated:** 2026-09-11 23:35:30 UTC
