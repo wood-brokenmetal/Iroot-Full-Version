@@ -237,4 +237,4 @@ This repository serves as the official landing page for iRoot. The software is d
 **Get the most recent version of iRoot today!**
 
 ---
-**Last updated:** 2026-09-15 20:29:54 UTC
+**Last updated:** 2026-09-15 23:13:04 UTC
